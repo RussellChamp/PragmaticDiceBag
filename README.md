@@ -63,7 +63,7 @@ Plastic drawstring fastner
 * If you are using a right-handed sewing machine, fold it so that the folded edge is on your right
 * Mark the upper-left corner with chalk. This will be the spout of your bag. I reccomend 2 inches down and 1 inch in.
 
-[DIAGRAM 1]
+![DIAGRAM 1](images/diagram-1.gif)
 ![Fold fabric](images/2-fold fabric and mark with chalk.gif)
 
 ##STEP 3##
@@ -81,7 +81,7 @@ Plastic drawstring fastner
 * Sew as close to the edges as you can and cut off the extra fabric
 * I recommend either 1 or 2 inches for the corners. Remember to measure from the seams and not from the edge of the fabric
 
-[DIAGRAM 2]
+![DIAGRAM 2](images/diagram-2.gif)
 ![Pin and sew edges](images/4-pin and sew edges.gif)
 
 ##STEP 5##
@@ -102,7 +102,7 @@ Plastic drawstring fastner
 * Sew over the pinned-back parts. This will end up making your bag look extra nice.
 * Do NOT sew through all four layers at once. After all, your bag does need an opening.
 
-[DIAGRAM 3]
+![DIAGRAM 3](images/diagram-3.gif)
 
 ##STEP 8##
 * Sew a second circle around the top of your bag. This is your cord channel.
