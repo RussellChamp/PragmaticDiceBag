@@ -1,11 +1,11 @@
 # PragmaticDiceBag
 ## A pragmatic programmer's guide to making simple, beautiful bags
 
-Hi! My name is Russell and I'm a programmer! I'm not very artisticaly inclided but occasionally I've been taken by a fey mood and compelled to try something new.
+Hi! My name is Russell and I'm a programmer! I'm not very artisticaly inclided but occasionally I've been taken by a fey mood and compelled be creative. Recently I decided to try my hand at making a dice bag for my friend's birthday.
 
 The below pattern was meant to be for people (like me) who were interested in trying something new but are able to admit they are rubbish with needles and scissors. I found several patterns online but none that I was entirely happy with.
 
-This two-toned pattern had rounded bottom corners, a nice little spout, and a drawstring cord. There are many possible variations or tweaks you can apply to make it your own. I've been very happy with the results and I'd be happy to hear/see your results in following this guide.
+This two-toned pattern had rounded bottom corners, a nice little spout, and a drawstring cord on a single side. There are many possible variations or tweaks you can apply to make it your own. I've been very happy with the results and I'd be happy to hear/see your results in following this guide.
 
 **Are you ready? I'm so excited! Let's get started!**
 
