@@ -1,5 +1,5 @@
 # PragmaticDiceBag
-A pragmatic programmer's guide to making simple, beautiful dice or coin bags
+## A pragmatic programmer's guide to making simple, beautiful bags
 
 Hi! My name is Russell and I'm a programmer! I'm not very artisticaly inclided but occasionally I've been taken by a fey mood and compelled to try something new.
 
@@ -7,28 +7,32 @@ The below pattern was meant to be for people (like me) who were interested in tr
 
 This two-toned pattern had rounded bottom corners, a nice little spout, and a drawstring cord. There are many possible variations or tweaks you can apply to make it your own. I've been very happy with the results and I'd be happy to hear/see your results in following this guide.
 
-Are you ready? I'm so excited! Let's get started!
+**Are you ready? I'm so excited! Let's get started!**
 
-[IMAGE NICE]
+![Nice dice bag!](images/nice bag.gif)
 
-Difficulty Level: Beginner (It's ok to make mistakes!)
+**Difficulty Level: Beginner** (It's ok to make mistakes!)
 
-Equipment:
-Sewing machine 
+## Equipment:
+### Sewing machine 
 * Although you could probably hand-sew this, I'd reccomend using a sewing machine. If you don't have one, ask your mom, aunt, or grannie. They may still have one in their basement or attic.
-Cutting board and fabric pizza-cutter thing
+
+### Cutting board and fabric pizza-cutter thing
 * I could have used scissors instead but found this very nice to use to get straight lines
-Measuring stick
+
+### Measuring stick
 * Used as a guide when cutting the fabric. Make sure this and the board are longer than the fabric you'll be cutting
-Scissors
+
+### Scissors
 * For cutting thread, trimming edges that you did a poor job on, and more
-Fabric pins
+
+### Fabric pins
 * Ok, so I hate using pins but these little buggers make several of the steps MUCH easier. Trust me, they're worth it.
 
-[IMAGE 0]
+![Equipment](images/0-equipment.gif)
 
-Material:
-Fabric (two types)
+## Material:
+### Fabric (two types)
 * In the pictures of this guide, I've used like a fake leather for the outer layer and a red velvet-y for the inner lining.
 * Visit you local JoAnne's or fabric store. Don't be afraid to ask the nice ladys at the cutting counter if they have sugestions.
 * You can cheat and get half your cutting done here by buying a length of fabric equal to one dimension of your bag
@@ -44,7 +48,7 @@ Plastic drawstring fastner
 * (Optional) I tried this after my first set of bags and was pleasd with the results
 
 
-Ok, have you got everything? It's ok, you can go back to the store for the things you forgot. I'll wait...
+**Ok, have you got everything? It's ok, you can go back to the store for the things you forgot. I'll wait...**
 
 ##STEP 1##
 * Cut a section of your outer cloth and your inner cloth
@@ -52,7 +56,7 @@ Ok, have you got everything? It's ok, you can go back to the store for the thing
 * Remember that you'll be losing a decent amount of the size due to sewing
 * Lay one on top of the other to make sure they the same size
 
-[IMAGE 1]
+![Cut cloth](images/1-cut cloth.gif)
 
 ##STEP 2##
 * Fold your outer layer fabric in half length-wise so that the nice side (that will eventually be facing outside) is facing inward.
@@ -60,25 +64,25 @@ Ok, have you got everything? It's ok, you can go back to the store for the thing
 * Mark the upper-left corner with chalk. This will be the spout of your bag. I reccomend 2 inches down and 1 inch in.
 
 [DIAGRAM 1]
-[IMAGE 2]
+![Fold fabric](images/2-fold fabric and mark with chalk.gif)
 
 ##STEP 3##
 * Rotate your bag 90 degrees anticlockwise and start sewing from the fold and go all the way around until you reach the chalk mark you made in step 2
 * Try to get close to the edge without going over.
 * Tear out the stitches if you go over your mark. There's no simple undo in sewing. Whooo.... breathe in. This is just the first mistake and it's easily redone. 
 
-[IMAGE 3]
+![Start sewing](images/3-start sewing on corner.gif)
 
 * Run your fingers through the inner bag to check for holes.
 * You went over the edge didn't you? Now you've got a hole in the bottom of the bag. Go back over that area and resew it. It won't matter; this part is going to be unseen on the inside anyway.
 
-##STEP 4## (Optional)
+##STEP 4 (Optional)##
 * Fold the bottom edges of the bag into a triangle and pin them. Marking the edges with chalk before folding helps
 * Sew as close to the edges as you can and cut off the extra fabric
 * I recommend either 1 or 2 inches for the corners. Remember to measure from the seams and not from the edge of the fabric
 
 [DIAGRAM 2]
-[IMAGE 4]
+![Pin and sew edges](images/4-pin and sew edges.gif)
 
 ##STEP 5##
 * Repeat steps 1-4 using the inner, liner material.
@@ -86,7 +90,7 @@ Ok, have you got everything? It's ok, you can go back to the store for the thing
 * At this point, both pockets should have their outer faces touching on the inside and their spouts should be on the same side.
 * Uh oh... they're not fitting right? One seems too big. Or is the other too small? It's ok, nobody will notice when they're turned inside out. I hope.
 
-[IMAGE 5]
+![Insert outer pocket](images/5-flip outer pocket and put it in liner pocket.gif)
 
 ##STEP 6##
 * Pin the edges of each layers spout back. Hrm... one spout is a little longer. That's ok, we'll fudge it a bit.
@@ -98,13 +102,14 @@ Ok, have you got everything? It's ok, you can go back to the store for the thing
 * Sew over the pinned-back parts. This will end up making your bag look extra nice.
 * Do NOT sew through all four layers at once. After all, your bag does need an opening.
 
+[DIAGRAM 3]
+
 ##STEP 8##
 * Sew a second circle around the top of your bag. This is your cord channel.
 * Make sure that there enough space between the top seam and the second one for your cord to travel through. If this is too small, you're going to have a bad time of it.
 * Go slow and you'll have no problem
 
-[DIAGRAM 3]
-[IMAGE 6]
+![Sew cord channel](images/6-sew two lines around the top of the bag.gif)
 
 ##VARIATION##
 * You could sew a third channel here to give you bag a popped top look. You'd need to make your spout larger, though.
@@ -115,13 +120,13 @@ Ok, have you got everything? It's ok, you can go back to the store for the thing
 * I found it easier to run the cord before you flip the bag.
 * This can take quite a while; I found it quite frustrating. Stiff cord helps.
 
-[IMAGE 7]
+![Run cord through channel](images/7-run cord through the channel.gif)
 
 ##STEP 10##
 * Flip the entire bag inside out through the spout
 * Wow! Magic! This looks pretty amazing now! You can't even see any of the terrible stitching I just did!
 
-[IMAGE 8]
+![Flip bag inside out](images/8-flip bag inside out.gif)
 
 ##STEP 11##
 * Sew the outer layer and liner together on each side of the spout.
@@ -133,9 +138,9 @@ Ok, have you got everything? It's ok, you can go back to the store for the thing
 * Admire your homemade dice bag!
 * Congratulations, you did it! I knew you could!
 
-[IMAGE 9]
+![Final product](images/9-final product.gif)
 
 ##STEP 13##
-* Improve and iterate
-* Do it again, but this time with the experience from before!
+* Improve and iterate!
+* Do it again, but this time with the experience from before.
 * After about 3 or 4 bags you should start feeling a bit more confidence. I'm sure your friends will love presents!
