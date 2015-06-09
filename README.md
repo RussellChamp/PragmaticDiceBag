@@ -38,17 +38,22 @@ This two-toned pattern had rounded bottom corners, a nice little spout, and a dr
 * You can cheat and get half your cutting done here by buying a length of fabric equal to one dimension of your bag
 * Pick whatever kind of material you'd like to use but know that you don't want anything too thick since you'll be sewing two layers together. Make sure your sewing machine can handle it.
 * After making my first few bags I went back for more fabric and found some absolutely amazingly soft fabric in the furniture section. Walk around and touch everything!
-Thread
+
+### Thread
 * Make sure this matches the color of your outer fabric.
-Chalk
+
+### Chalk
 * Just some normal chalk. I found it worked nicely when marking the fabric for how far I should cut.
-Drawstring
+
+### Drawstring
 * I had a hard time finding a cord that I liked. This will be a very personal decision
-Plastic drawstring fastner
+
+### Plastic drawstring fastner
 * (Optional) I tried this after my first set of bags and was pleasd with the results
 
 
 **Ok, have you got everything? It's ok, you can go back to the store for the things you forgot. I'll wait...**
+
 
 ##STEP 1##
 * Cut a section of your outer cloth and your inner cloth
